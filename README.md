@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm wanzie</h1>
 <h3 align="center">sofware enginer from indonesia</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=wanziee" alt="wanziee" /></a> </p>
 
 - 🔭 I’m currently working on **gameload**
 
