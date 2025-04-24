@@ -32,6 +32,6 @@ And now, presenting the cuttest girl in my room. She's got attitude, she’s got
 
 **Fun fact:** She only shows up when you’ve been slacking on your commits. She's here to haunt your pull requests and steal your debugging snacks. 💅💻
 
-<img src="assets/assets/beautiful-lady.jpeg" alt="Valk Ghost Artwork" width="500" />
+<img src="assets/assets/beautiful-lady.jpeg" alt="Valk Ghost Artwork" width="300" />
 
 ---
