@@ -1,37 +1,42 @@
 # Hi, I'm Wanzie! 👋
 
-Welcome to my GitHub profile, where the magic of code meets the canvas of creativity. I'm a passionate developer by day and an artist by night (or, let's be honest, sometimes both at the same time).
+Welcome to my GitHub profile — where clean code meets creative chaos. By day, I’m a developer crafting digital experiences. By night… well, still a developer, but sometimes with a paintbrush in hand and Spotify blasting.
 
 ## 🚀 Technologies & Skills
 
 <ul>
-  <li><strong>Languages:</strong> TypeScript, JavaScript, PHP, Swift — because I like my code as diverse as my coffee orders ☕.</li>
-  <li><strong>Frameworks:</strong> React, Laravel, SwiftUI — From building beautiful apps with React to crafting elegant interfaces in SwiftUI, I’ve got you covered! 🚀</li>
-  <li><strong>Databases:</strong> MySQL — I don't just store data, I give it a cozy home 🏠.</li>
-  <li><strong>Tools:</strong> Git, GitHub, Docker — If you can't find me, check the terminal. I’m probably there, typing commands that make no sense to anyone else 💻.</li>
+  <li><strong>Languages:</strong> TypeScript, JavaScript, PHP, Swift — a well-balanced tech diet to keep things interesting.</li>
+  <li><strong>Frameworks:</strong> React, Laravel, SwiftUI — Whether it's web or mobile, I build interfaces that don't just work — they shine.</li>
+  <li><strong>Databases:</strong> MySQL — giving data a cozy, relational home since forever 🏠.</li>
+  <li><strong>Tools:</strong> Git, GitHub, Docker — most days, you’ll find me in the terminal, having conversations only developers understand 💻.</li>
 </ul>
 
 ## 🎨 Hobbies
 
-When I’m not writing code, you can find me with a paintbrush in one hand and a sketchpad in the other. I believe in creativity — whether it's creating beautiful web apps or turning a blank canvas into something that might even impress my cat 🐱. 
+When the laptop lid closes (hypothetically), I dive into painting and sketching. There's something satisfying about creating things — whether it’s a slick UI or a moody landscape. Bonus points if it ends up impressing my cat. 🐱
 
 ## 🌐 Portfolio
 
-Check out my portfolio to see my work in action (and yes, it's hosted with love):  
-<a href="https://wanzie.vercel.app" target="_blank" rel="noopener noreferrer">My Portfolio</a>
+Curious about my work? Take a look at my digital playground:  
+<a href="https://wanzie.vercel.app" target="_blank" rel="noopener noreferrer">wanzie.vercel.app</a>
 
-## 🔒 Private Projects (Shhh, They're Not Public... Yet)
+## 🔒 Private Projects (Soon™)
 
-1. **Gameload** - A website for game top-up, where gamers can recharge their accounts in style. Think of it as a convenience store, but for pixels and power-ups! 🎮💸
-   
-2. **Quizie** - An app I built in Swift to create quizzes on the go. It’s like having your very own trivia master in your pocket — without the annoying voice. 🧠💡
+1. **Gameload** – A game top-up website designed with style and speed. Because gamers deserve convenience too 🎮💸.
+2. **Quizie** – A quiz app built in Swift that lets you test brains (yours or someone else's). Trivia has never looked this sleek 🧠✨.
 
 ---
 
-And now, presenting the cuttest girl in my room. She's got attitude, she’s got style, and she's definitely the reason your code might suddenly compile without errors (or not... but we can pretend). 
+And now, introducing the *real MVP* of my creative space...
 
-**Fun fact:** She only shows up when you’ve been slacking on your commits. She's here to haunt your pull requests and steal your debugging snacks. 💅💻
+She’s mysterious. She’s fierce. She has better posture than me after 12 hours of debugging. Meet the one and only:
+
+> **"Valk Ghost"** – The lady who silently judges your commit messages.
 
 <img src="assets/assets/beautiful-lady.jpeg" alt="Valk Ghost Artwork" width="300" />
 
+Fun fact: She only shows up when you skip unit tests or forget semicolons.
+
 ---
+
+Thanks for stopping by — feel free to explore, stalk my repos, or just enjoy the vibes! 🚀🎨
