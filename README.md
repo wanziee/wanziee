@@ -1,5 +1,5 @@
 # Hi, I'm Wanzie! 👋
-
+<a href="https://wanzie.vercel.app" target="_blank" rel="noopener noreferrer">my portofolio </a>(still in progress)
 Welcome to my GitHub profile — where clean code meets creative chaos. By day, I’m a developer crafting digital experiences. By night… well, still a developer, but sometimes with a paintbrush in hand and Spotify blasting.
 
 ## 🚀 Technologies & Skills
@@ -14,11 +14,6 @@ Welcome to my GitHub profile — where clean code meets creative chaos. By day, 
 ## 🎨 Hobbies
 
 When the laptop lid closes (hypothetically), I dive into painting and sketching. There's something satisfying about creating things — whether it’s a slick UI or a moody landscape. Bonus points if it ends up impressing my cat. 🐱
-
-## 🌐 Portfolio
-
-Curious about my work? Take a look at my digital playground:  
-<a href="https://wanzie.vercel.app" target="_blank" rel="noopener noreferrer">wanzie.vercel.app</a>
 
 ## 🔒 Private Projects (Soon™)
 
