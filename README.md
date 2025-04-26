@@ -1,4 +1,9 @@
-# Hi, I'm Wanzie! 👋 <a href="https://wanzie.vercel.app" target="_blank" rel="noopener noreferrer"><p>my portofolio</p></a>(still in progress)
+<h1>
+  Hi, I'm Wanzie! 👋
+  <a href="https://wanzie.vercel.app" target="_blank" rel="noopener noreferrer" style="font-size: 0.8rem; margin-left: 8px;">
+    (my portfolio)
+  </a>
+</h1>
 
 Welcome to my GitHub profile — where clean code meets creative chaos. By day, I’m a developer crafting digital experiences. By night… well, still a developer, but sometimes with a paintbrush in hand and Spotify blasting.
 
