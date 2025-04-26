@@ -31,7 +31,7 @@ And now, introducing the *real MVP* of my creative space...
 
 She’s mysterious. She’s fierce. She has better posture than me after 12 hours of debugging. Meet the one and only:
 
-> **"Valk Ghost"** – The lady who silently judges your commit messages.
+> **"Cutest girl in ma room"** – The lady who silently judges your commit messages.
 
 <img src="assets/assets/beautiful-lady.jpeg" alt="Valk Ghost Artwork" width="300" />
 
