@@ -1,6 +1,6 @@
 <h1>
   Hi, I'm Wanzie! 👋
-  <a href="https://wanzie.vercel.app" target="_blank" rel="noopener noreferrer" style="font-size: 0.8rem; margin-left: 8px;">
+  <a href="https://wanzie.vercel.app" target="_blank" rel="noopener noreferrer" style="font-size: 5px; margin-left: 8px;">
     (my portfolio)
   </a>
 </h1>
