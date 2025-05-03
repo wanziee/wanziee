@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <a href="https://wanzie.vercel.app" target="_blank"><strong>🌐 Live Demo →</strong></a>
+  <a href="https://wanzie.vercel.app" target="_blank"><strong>🌐 Mt Portofolio →</strong></a>
 </p>
 
 ---
