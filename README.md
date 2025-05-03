@@ -1,7 +1,7 @@
 <h1 align="center">👋 Hi, I'm Wanziee</h1>
 
 <p align="center">
-  A creative developer crafting slick interfaces and fun ideas — powered by <strong>React + Vite</strong> ⚛️⚡️
+  A creative developer crafting slick interfaces and fun ideas 
 </p>
 
 <p align="center">
