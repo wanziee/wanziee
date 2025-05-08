@@ -17,10 +17,10 @@ By day, I craft digital experiences. By night... still coding — sometimes with
 
 ## 🚀 Tech & Tools
 
-- **Languages:** TypeScript, JavaScript, PHP, Swift  
-- **Frameworks:** React, Laravel, SwiftUI  
+- **Languages:** TypeScript, JavaScript, PHP, Swift. 
+- **Frameworks:** React, Laravel, SwiftUI.
 - **Database:** MySQL  
-- **Tools:** Git, GitHub, Docker  
+- **Tools:** Git, GitHub, Postman. 
 
 ---
 
