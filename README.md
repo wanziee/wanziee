@@ -22,21 +22,21 @@ By day, I craft digital experiences. By night... still coding — sometimes with
 - **Database:** MySQL  
 - **Tools:** Git, GitHub, Postman. 
 
-
+<br/>
 
 ## 🎨 Hobbies
 
 When I’m not debugging, I’m sketching or painting.  
 Creating things — whether it’s a UI or a moody landscape — is my jam. Bonus if it impresses my cat. 🐱
 
-
+<br/>
 
 ## 🔒 Coming Soon
 
 - **🎮 Gameload:** A fast and stylish game top-up site  
 - **🧠 Quizie:** A Swift-built quiz app that makes trivia fun and clean
 
-
+<br/>
 
 ## 🎭 Behind the Scenes
 
@@ -46,7 +46,7 @@ Meet the real MVP of my creative space:
 
 <img src="assets/assets/beautiful-lady.jpeg" alt="Valk Ghost Artwork" width="300" />
 
-
+<br/>
 
 Thanks for dropping by — explore my repos, check the site, or just vibe.  
 You’re always welcome here 🚀
