@@ -8,12 +8,12 @@
   <a href="https://wanzie.vercel.app" target="_blank"><strong>🌐 My Portfolio →</strong></a>
 </p>
 
----
+
 
 Welcome to my corner of GitHub — where clean code meets creative chaos.  
 By day, I craft digital experiences. By night... still coding — sometimes with a paintbrush in hand and music on full blast.
 
----
+
 
 ## 🚀 Tech & Tools
 
